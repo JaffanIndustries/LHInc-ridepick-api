@@ -1,0 +1,14 @@
+coreapi==2.1.1
+Django==1.10.4
+django-filter==1.0.1
+django-guardian==1.4.6
+djangorestframework==3.5.3
+future==0.16.0
+itypes==1.1.0
+lyft-rides==0.1.0b0
+Markdown==2.6.7
+PyYAML==3.12
+requests==2.12.4
+six==1.10.0
+uber-rides==0.3.1
+uritemplate==3.0.0
